@@ -12,3 +12,13 @@ margin: 0;
   background-colour: #101214
   colour: #7A7C80;
 }
+
+h1, h2, .white {
+  colour: #ffff;
+}
+
+a {
+  colour: #7A7C80;
+  text-decoration: none;
+  transition:0.3s;
+}
